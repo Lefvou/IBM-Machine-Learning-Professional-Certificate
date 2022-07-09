@@ -43,9 +43,12 @@ of pneumonia of an unknown cause in Wuhan City in Hubei Province. Subsequently t
 to the rest of the world. The WHO has now declared it a pandemic.
 
 Three models were created to find the most suitable for the specific problem:
+
 • A simple convolutional neural network.
-• The same architecture was used for the second model, but data augmentation techniques were
-introduced, to find out if it will help to better accuracy and predictions.
+
+• The same architecture was used for the second model, but data augmentation techniques were introduced, to find out if it will 
+help to better accuracy and predictions.
+
 • For the third model, transfer learning techniques were considered, by using a pretrained VGG-16 model (with data augmentation).
 
 Data augmentation takes the approach of generating more training data from existing training
