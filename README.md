@@ -1,11 +1,9 @@
 
-# 💻📊 IBM Machine Learning Professional Certificate ![coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)
+# 💻📊 IBM Machine Learning Professional Certificate
 
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![numpy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
-![pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 This [program](https://www.coursera.org/professional-certificates/ibm-machine-learning) consists of 6 courses to develop working skills 
@@ -16,11 +14,11 @@ and specialized topics such as **Time Series Analysis** and **Survival Analysis*
 
 IBM HR Analytics Employee Attrition & Performance
 
-## [Supervised Learning: Regression](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/2.%20Supervised%20Learning%20Regression)🐱‍👤
+## [Supervised Learning: Regression](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/2.%20Supervised%20Learning%20Regression)
 
 Impact of Covid-19 Pandemic on the Global Economy
 
-## [Supervised Learning: Classification](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/3.%20Supervised%20Learning%20Classification)🐱‍👤
+## [Supervised Learning: Classification](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/3.%20Supervised%20Learning%20Classification)
 
 Reduction of child mortality
 
@@ -28,7 +26,7 @@ One of the important data insight extracting methods in biomedical research are 
 can be divided into two categories: binary and multi-class classifiers. The interest of this project is focused on a multi-class problem 
 identifying and classifying Normal, Suspect, and Pathological fetuses.
 
-## [Unsupervised Learning](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/4.%20Unsupervised%20Learning)🐱‍👤
+## [Unsupervised Learning](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/4.%20Unsupervised%20Learning)
 
 New York Stock Exchange
 
@@ -36,7 +34,7 @@ Focus on clustering and apply unsupervised learning techniques to find the best 
 wether a company has net profit or net loss. To do that, we will transform Net Income column into a binary representation 
 of whether or not a company made profit, where 0 represents loss and 1 represents profit.
 
-## [Deep Learning and Reinforcement Learning](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/5.%20Deep%20Learning%20and%20Reinforcement%20Learning)🐱‍👤
+## [Deep Learning and Reinforcement Learning](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/5.%20Deep%20Learning%20and%20Reinforcement%20Learning)
 
 Covid 19 prediction
 
@@ -56,6 +54,6 @@ The goal is that at training time, the model will not see the exact same picture
 This helps to expose the model to more aspects of the data and generalize better. 
 All images were resized to 128x128 for faster training
 
-## [Specialized Models: Time Series and Survival Analysis](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/6.%20Specialized%20Models%20Time%20Series%20and%20Survival%20Analysis)🐱‍👤
+## [Specialized Models: Time Series and Survival Analysis](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/6.%20Specialized%20Models%20Time%20Series%20and%20Survival%20Analysis)
 
 Implementation of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Models to predict Google daily stock market prices.
