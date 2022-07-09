@@ -10,7 +10,7 @@ This [program](https://www.coursera.org/professional-certificates/ibm-machine-le
 in the main areas of Machine Learning: **Supervised Learning**, **Unsupervised Learning**, **Deep Learning**, **Reinforcement Learning** 
 and specialized topics such as **Time Series Analysis** and **Survival Analysis**.
 
-## [Exploratory Data Analysis for Machine Learning](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/1.%20Exploratory%20Data%20Analysis%20for%20Machine%20Learning)🐱‍👤
+## [Exploratory Data Analysis for Machine Learning](https://github.com/Lefvou/IBM-Machine-Learning-Professional-Certificate/tree/main/1.%20Exploratory%20Data%20Analysis%20for%20Machine%20Learning)
 
 IBM HR Analytics Employee Attrition & Performance
 
